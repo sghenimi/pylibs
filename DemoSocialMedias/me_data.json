@@ -1,0 +1,23 @@
+{
+    "localizedLastName": "G",
+    "firstName": {
+        "localized": {
+            "fr_FR": "So"
+        },
+        "preferredLocale": {
+            "country": "FR",
+            "language": "fr"
+        }
+    },
+    "lastName": {
+        "localized": {
+            "fr_FR": "G"
+        },
+        "preferredLocale": {
+            "country": "FR",
+            "language": "fr"
+        }
+    },
+    "id": "8aPQqHQUe_",
+    "localizedFirstName": "So"
+}
