@@ -1,0 +1,17 @@
+
+socialmedia_channel    : str : name of the social media channel ?
+socialmedia_post_title : Str : name of the social media post ?
+socialmedia_sponsored : Bool : sponsored True/False
+socialmedia_post_type : Str  : type of social media post ?
+socialmedia_post_date : Str  : publication date of social Media
+twitter_postId        : str  : identifier of the post
+twitter_postName      : str  : name of the post
+twitter_impressions   : int :   number of the impressions for the post
+twitter_linkClicks    : int
+twitter_likes         : int
+twitter_retweets      : int
+twitter_comments      : int
+twitter_mentions      : int
+twitter_followers     : int
+twitter_roi           : Float : ROI of the post
+twitter_budget       : Float : Ad spend of the post
